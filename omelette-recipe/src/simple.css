@@ -1,0 +1,45 @@
+.simp{
+    margin-top: 2em;
+}
+.simp > h1{
+    font-size: 3em;
+    padding-left: 1.5em;
+
+}
+
+.simp > p{
+    margin-top: 2em;
+    font-size: 1.2em;
+    font-weight: 100;
+}
+
+.simp > div{
+    padding: 2em,1em;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    margin-top: 2em;
+}
+
+.simp > div > h4{
+    font-size: 1.5em;
+    color: hsl(332, 51%, 32%);
+    
+}
+
+.simp > div > ul{
+    padding: 1em;
+    padding-left: 2em;
+}
+
+.simp > div > ul > li{
+    margin-top: 1em;
+    padding-left: 1em;
+}
+
+.simp > div > ul > li::marker{
+   color: hsl(332, 51%, 32%);
+}
+
+.simp > div > ul > li > strong{
+    color: hsl(24, 5%, 18%)
+}

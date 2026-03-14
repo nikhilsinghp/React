@@ -1,0 +1,15 @@
+div{
+    margin-top: 2em;
+}
+div > h4{
+    color:hsl(14, 45%, 36%)
+}
+ div > ul{
+    padding-left: 2em;
+
+ }
+
+ div > ul > li{
+    padding-left: 1.2em;
+    padding-top: 1.2em;
+ }

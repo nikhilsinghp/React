@@ -1,0 +1,13 @@
+div{
+    margin-top: 2em;
+}
+div > h4{
+    color:hsl(14, 45%, 36%)
+}
+div > ol{
+    padding-left: 2.5em;
+    padding-top: 2.5em;
+}
+div > ol > li{
+    padding-left: 1em;
+}

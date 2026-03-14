@@ -1,0 +1,34 @@
+[
+    {
+
+        "id":1,
+        "title":"Krishna",
+        "imgURL":"./Image2Krishna.jpg",
+        "videoURL":"./Video1Krishna.mp4"
+    },
+
+    {
+         "id":2,
+        "title":"Moon",
+        "imgURL":"./Image4Village.jpg",
+        "videoURL":"./Video2Moon.mp4"
+    },
+    {
+         "id":3,
+        "title":"Tabla",
+        "imgURL":"./Image1Mountain.jpg",
+         "videoURL":"./Video3Tabla.mp4"
+    },
+    {
+         "id":4,
+        "title":"Motivation",
+        "imgURL":"./Image3GreenGarden.jpg",
+         "videoURL":"./Video4Motivation.mp4"
+    },
+    {
+         "id":5,
+        "title":"Ganesha",
+        "imgURL":"./Image5Rohit.jpg",
+         "videoURL":"./Video5Ganesha.mp4"
+    }
+]

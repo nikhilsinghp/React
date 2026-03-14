@@ -1,0 +1,14 @@
+.app{
+  background-color: hsl(203, 41%, 72%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.app > section{
+  width: 70%;
+  background-color: white;
+  border-radius: 20px;
+}
